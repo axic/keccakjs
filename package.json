@@ -1,6 +1,6 @@
 {
   "name": "keccakjs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Keccak hash (SHA3) in Node.js and in the browser. Fast & simple.",
   "main": "index.js",
   "scripts": {
