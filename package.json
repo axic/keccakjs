@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "standard",
-    "test": "exit 0"
+    "test": "tape ./test/index.js"
   },
   "author": {
     "name": "Alex Beregszaszi",
@@ -24,6 +24,7 @@
   },
   "browser": "browser.js",
   "devDependencies": {
-    "standard": "^12.0.0"
+    "standard": "^12.0.0",
+    "tape": "^4.9.0"
   }
 }
